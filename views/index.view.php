@@ -6,7 +6,7 @@
 </br>
 <p>Some stuff needed to be added here to make looks nice </p>
 <?php endif;?>
-
+hi
 <style>
 h1
 {
